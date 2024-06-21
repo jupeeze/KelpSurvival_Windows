@@ -26,6 +26,16 @@
 
 ---
 
+# インストール
+
+GitHub からクローンしてきて `KelpSurvival.exe` を読み込む:
+
+```console
+$ git clone https://github.com/jupeeze/KelpSurvival_Windows.git
+```
+
+---
+
 # ゲーム攻略方法
 
 右上にクエストが表示されるので、それに従う。
