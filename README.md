@@ -1,5 +1,9 @@
 # KelpSurvival_Windows
  
+
+https://github.com/jupeeze/KelpSurvival_Windows/assets/65474560/a38c4faa-9ee9-4311-8369-206206ec1338
+
+
 # 開発環境
 
 <img src="https://img.shields.io/badge/2021.3.0f1-Unity-000000.svg?logo=unity&style=popout-square">
